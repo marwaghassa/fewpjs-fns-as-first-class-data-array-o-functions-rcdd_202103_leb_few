@@ -18,4 +18,10 @@ function unleashDog(dogName,dogBreed) {
   console.log("Unleash Byron the poodle");
 }
 
-var routine=[wakeDog,leashDog,walkToPark,]
+var routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
+function exerciceDog(dogName,dogBreed){
+  for (let i=0,i<routine.length,i++){
+    
+  }
+  
+}

@@ -12,7 +12,7 @@ function wakeDog(dogName,dogBreed) {
   console.log("");
 }
 function wakeDog(dogName,dogBreed) {
-  console.log("");
+  console.log("Walk home with Byron the poodle");
 }
 function wakeDog(dogName,dogBreed) {
   console.log("Unleash Byron the poodle");

@@ -25,7 +25,7 @@ function walkHome (dogName="Byron", dogBreed="poodle") {
 }
 
 
-var routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
+const routine=[wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
 function exerciceDog(dogName,dogBreed)
   
   

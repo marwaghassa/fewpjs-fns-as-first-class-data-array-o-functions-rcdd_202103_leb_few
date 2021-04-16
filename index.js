@@ -2,18 +2,20 @@
 function wakeDog(dogName,dogBreed) {
   console.log("Wake Byron the poodle");
 }
-function wakeDog(dogName,dogBreed) {
+function leashDog(dogName,dogBreed) {
   console.log("Leash Byron the poodle");
 }
-function wakeDog(dogName,dogBreed) {
-  console.log("");
+function walkToPark(dogName,dogBreed) {
+  console.log("Walk to the park with Byron the poodle");
 }
-function wakeDog(dogName,dogBreed) {
+function throwFrisbee(dogName,dogBreed) {
   console.log("Throw the frisbee for Byron the poodle");
 }
-function wakeDog(dogName,dogBreed) {
+function walkHome(dogName,dogBreed) {
   console.log("Walk home with Byron the poodle");
 }
-function wakeDog(dogName,dogBreed) {
+function unleashDog(dogName,dogBreed) {
   console.log("Unleash Byron the poodle");
 }
+
+var routine=[wakeDog,leashDog,walkToPark,]
